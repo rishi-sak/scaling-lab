@@ -56,7 +56,7 @@ and average response latency.
 ``` text
                     ┌────────────────────────────┐
                     │       k6 load test         │
-                    │  25 VUs for 30 seconds      │
+                    │  25 VUs for 30 seconds     │
                     └──────────────┬─────────────┘
                                    │ HTTP
                                    ▼
